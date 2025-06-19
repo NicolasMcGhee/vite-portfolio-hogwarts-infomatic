@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Harry Potter",
+    "house": "Gryffindor",
+    "year": "7th Year"
+  },
+  {
+    "id": "2",
+    "name": "Ronald Weasley",
+    "house": "Gryffindor",
+    "year": "7th Year"
+  },
+  {
+    "id": "3",
+    "name": "Hermione Granger",
+    "house": "Gryffindor",
+    "year": "7th Year"
+  }
+]

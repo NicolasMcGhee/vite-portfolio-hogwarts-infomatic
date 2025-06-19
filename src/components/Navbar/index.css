@@ -1,0 +1,30 @@
+.nav-container {
+    background-color: black;
+    border-bottom: white 2px solid;
+    /* background: #FF2400 ; */
+    /* background: linear-gradient(90deg, rgba(255, 36, 0, 1) 0%, rgba(255, 255, 143, 1) 33%, rgba(15, 82, 186, 1) 66%, rgba(15, 77, 15, 1) 99%); */
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+.nav-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav-infoList {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    gap: 2rem;
+    text-transform: uppercase;
+}
+
+.nav-infoList li:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    opacity: 80%;
+    transition-duration: 1s;
+    transition-property: opacity;
+}

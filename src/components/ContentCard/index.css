@@ -1,0 +1,25 @@
+.movie {
+    flex-direction: column;
+    gap: .5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+ .movie-Image img{
+    border-radius: 1rem;
+ }
+
+.movie-Info {
+    list-style-type: none;
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.movie-Title:hover {
+    color: grey;
+    cursor: pointer;
+
+}
